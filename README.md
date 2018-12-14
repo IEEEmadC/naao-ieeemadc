@@ -6,6 +6,14 @@ For travelers going on a trip, you can make some extra money by picking up a pac
 
 For anyone who wants to send a package to someone overseas, through Naao App, you can find a traveler near you or within your city who is traveling to where you want to send the package to.
 
+Walkthrough Videos
+==================
+
+|Traveler Walkthrough|Sender Walkthrough|
+|--------------------|------------------|
+|[![Traveler Walkthrough](http://img.youtube.com/vi/Rcd6eDiM4P0/0.jpg)](http://www.youtube.com/watch?v=Rcd6eDiM4P0 "Traveler Walkthrough")|[![Sender Walkthrough](http://img.youtube.com/vi/ml0BeQ8t1s4/0.jpg)](http://www.youtube.com/watch?v=ml0BeQ8t1s4 "Sender Walkthrough")|
+
+
 Details For IEEEMadC
 ====================
 
